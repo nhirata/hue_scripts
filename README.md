@@ -14,3 +14,6 @@ python red_light.py : changes the light to red
 python green_light.py : changes the light to green
 python blue_light.py : changes the light to blue
 python pulse.py : pulses the light
+
+#To Do:
+Need to refactor and make into various functions and such.
